@@ -1,0 +1,27 @@
+# Compiled Java files
+bin/
+out/
+*.class
+
+# Java build artifacts
+*.jar
+*.war
+*.ear
+
+# IDE metadata
+.classpath
+.project
+.settings/
+
+# VS Code local files (keep shared settings.json)
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
